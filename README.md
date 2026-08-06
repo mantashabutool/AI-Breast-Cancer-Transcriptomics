@@ -1,4 +1,4 @@
-# AI Breast Cancer Transcriptomics
+# AI Breast Cancer subtype Transcriptomics
 
 An undergraduate bioinformatics project that explores breast cancer transcriptomic data using Python, public genomic datasets, data visualization, and introductory machine learning techniques.
 
