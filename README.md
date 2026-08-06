@@ -32,6 +32,13 @@ Publicly available breast cancer transcriptomic dataset (NCBI GEO).
 - Pathway enrichment analysis
 - Deep learning models
 - Interactive visualizations
+- ## Results
+
+- Samples analyzed: 155
+- Genes analyzed: 29,874
+- Classes: 6
+- Model: Random Forest
+- Test Accuracy: 100%
 
 ---
 
